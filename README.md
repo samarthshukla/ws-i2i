@@ -1,2 +1,2 @@
 # Weakly-Supervised-I2I-Translation
-Extremely Weak Supervised Image-to-Image Translation for Semantic Segmentation
+Code for paper titled "Extremely Weak Supervised Image-to-Image Translation for Semantic Segmentation"
